@@ -1,5 +1,5 @@
 # FlashAV
-Remote detection of a user's AV via Flash
+Remote detection of a user's AV using Flash
 
 [Full information about this method is here](http://agrrrdog.blogspot.ru/2016/06/remote-detection-of-users-av-via-flash.html)
 
